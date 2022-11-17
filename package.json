@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth-13",
+  "version": "1.0.0",
+  "description": "An auth system totally designed  github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinthakur00/codespace-auth-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinthakur00/codespace-auth-13/issues"
+  },
+  "homepage": "https://github.com/robinthakur00/codespace-auth-13#readme"
+}
